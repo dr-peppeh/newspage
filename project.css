@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    max-width: 960px;
+    margin: 0px auto;;
+}
+
+.home{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+.home a{
+    margin-right: 20px;
+}
+.main{
+    width: 800px;
+}
+.main-image{
+    width: 660px;
+    margin: 25px 0px;
+    display: flex;
+}
+.boda1 p{
+    font-size: 60px;
+    /* font-weight: 300; */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 300px;
+    line-height: 0.9;
+}
+.boda2 p{
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    width: 300px;
+}
+.ogo{
+    display: flex;
+    justify-content: space-between ;
+}
+.button {
+margin-top: 30px;
+background-color: rgb(247, 131, 89);
+width: 120px;
+height: 40px;
+color: white;
+}
+.section{
+    /* width: 400px; */
+    display: flex;
+    gap: 20px;
+}
+.aside{
+    background-color:rgb(32, 2, 32);
+    margin-top: 26px;
+    width: 280px;
+    padding: 25px;
+}
+.heading{
+    color:gold;
+    font-size: 40px;
+    font-weight: 500;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+.new-item{
+    color: white;
+    font-size: 15px
+}
+.new-head{
+    color: violet;
+    font-size: large;
+}
+
+.footer{
+    max-width: 960px;
+    display: flex;
+}
+.left{
+    display: flex;
+    
+   
+    
+}
+.babe{
+
+}

@@ -1,0 +1,53 @@
+.background{
+    width: 800px;
+    background-color: black;
+    /* height: 400px; */
+    border: 10px solid black;
+    /* margin: 5px; */
+}
+.top{
+    display: flex;
+    gap: 7px;
+}
+.orange{
+    width: 500px;
+    height: 200px;
+    background-color:red;
+}
+.yellow{
+    width: 300px;
+    height: 200px;
+    background-color: yellow;
+}
+.bottom{
+    display: flex;
+    gap: 7px;
+}
+.green{
+    width: 400px;
+    height: 200px;
+    background-color: green;
+    margin-top: 7px;
+}
+.white{
+    /* height: 200px; */
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 7px;
+    
+}
+.white-top{
+    height: 96.5px;
+    width: 400px;
+    background-color: white;
+    margin-top: 7px;
+}
+.white-bottom{
+    height: 96.5px;
+    width: 400px;
+    background-color: white;
+   
+}
+    
+
